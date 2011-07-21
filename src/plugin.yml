@@ -1,0 +1,8 @@
+name: BossCrewColor
+main: jinivus.BossCrewColor.BossCrewColor
+version: 0.5
+commands:
+  color:
+    description: Boss Assist.
+    usage: /color (color) or /color list
+    permission: bosscolor.change
